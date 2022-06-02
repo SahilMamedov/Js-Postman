@@ -1,0 +1,12 @@
+.cityInput{
+    margin-top: 50px;
+    width:350px;
+}
+p{
+    margin-top: 15px;
+    font-size: 2rem;
+}
+#notFound{
+    color: red;
+    font-size: 2rem;
+}
